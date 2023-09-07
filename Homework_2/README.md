@@ -5,6 +5,8 @@
  This homework is a continuation of Lab # 2, where we utilize an image to create another attacker to our network and testing to see how the new attacker integrates into the environment. 
 
 
+
+
 ## Two images found in Docker Hub are:
 
 **NGINX**:
