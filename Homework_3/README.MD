@@ -1,4 +1,4 @@
-# ORWIN AUSTIN
+## ORWIN AUSTIN
 ## COMPUTER AND NETWORK SECURITY HW #3
 ## LT QUARRY, DUE 9/14/23
 
@@ -7,13 +7,14 @@
 
 ### Linux Distribution Used
 
-### The following distribution was used:
 ###### config.vm.box = "oraclelinux/8"
 
-### Installing the SCC
-# This was done using the "wget" command as follows:
+#### Installing the SCC
+###### This was done using the "wget" command as follows:
 
 ![wget](https://github.com/OAustin23/austin-CNS-Lab-23/assets/90360307/18d41bfb-f99f-4057-8e93-411e8435bd00)
+ ##### Prior to that, the file needed to be unzipped, which binaries werer not previously installed on the VM, but I installed those binaries, and unzipped the file. 
+
 
 ### Overall Score: 24.11%
 
