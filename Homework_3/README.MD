@@ -17,10 +17,10 @@ config.vm.box = "oraclelinux/8"
 ![file_unzipped](https://github.com/OAustin23/austin-CNS-Lab-23/assets/90360307/5f506210-c4fa-4b6c-88ea-b3b381e87d5f)
 
 #### Sccan Results: 
-Overall Score: 24.11%
-Controls Failed : 106
-Controls Passed: 54
-CAT I Frequencies: 5 failed, 5 unchecked, 15 Passed
+###### Overall Score: 24.11%
+######Controls Failed : 106
+######Controls Passed: 54
+######CAT I Frequencies: 5 failed, 5 unchecked, 15 Passed
 
 ![score](https://github.com/OAustin23/austin-CNS-Lab-23/assets/90360307/c3c64d95-551a-4763-822a-a96cffd69a5c)
 
