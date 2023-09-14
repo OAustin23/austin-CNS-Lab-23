@@ -7,13 +7,13 @@
 
 ## Linux Distribution Used
 
-# The following distribution was used:
-# config.vm.box = "oraclelinux/8"
+### The following distribution was used:
+###### config.vm.box = "oraclelinux/8"
 
-## Installing the SCC
+### Installing the SCC
 # This was done using the "wget" command as follows:
 
-
+![wget](https://github.com/OAustin23/austin-CNS-Lab-23/assets/90360307/18d41bfb-f99f-4057-8e93-411e8435bd00)
 
 ### Overall Score: 24.11%
 
