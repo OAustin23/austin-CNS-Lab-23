@@ -2,10 +2,10 @@
 ## COMPUTER AND NETWORK SECURITY HW #3
 ## LT QUARRY, DUE 9/14/23
 
-## Overview
-# In this Homework, students were able to identify the benchmarks using a Linux host amd a SCAP Compliance Checker application. 
+### Overview
+##### In this Homework, students were able to identify the benchmarks using a Linux host amd a SCAP Compliance Checker application. 
 
-## Linux Distribution Used
+### Linux Distribution Used
 
 ### The following distribution was used:
 ###### config.vm.box = "oraclelinux/8"
