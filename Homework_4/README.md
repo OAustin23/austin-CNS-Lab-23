@@ -4,6 +4,7 @@
 
 ## Part 2
 ### The following is a screenshot of all of the "Member Of" and "Account" tabs:
+
 ![Alt text](austin-CNS-Lab-23/Homework_4/pt2.png?raw=true "Screenshot 1")
 ![Screenshot 1](pt2.1.png)
 
