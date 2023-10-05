@@ -19,4 +19,4 @@
 ## Section #3
 ### This screenshot depicts me getting into my jumpbox using key based authenthication, as depicted, I did not need my password to get in. 
 
-![Screenshot 1](pt2.1.png)
+![Screenshot 1](p3.png)
