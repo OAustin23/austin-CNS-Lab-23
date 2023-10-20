@@ -22,5 +22,5 @@
 ### This screenshot depicts the file path to my input.conf file. As you can observe, it is in the local system of etc found in the Splunk Universal Forwarder under program files. 
 
 
-![Screenshot 1](file_location.png)
+![Screenshot 1](file_location1.png)
 
