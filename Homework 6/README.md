@@ -5,7 +5,9 @@
 
 
 ## Question #3
-### The file is pushed to Homework 6 folder.
+### The image below is a screenshot of my splunk certificate. The course I took was Introduction to Splunk. 
+
+![Screenshot 1](splunk_certificate.png)
 
 
 
