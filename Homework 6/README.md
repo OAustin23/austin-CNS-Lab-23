@@ -13,6 +13,8 @@
 
 ## Question #4
 
+### My group's server was not configure properly, therefore we were not able search event loging. However, if mine was working, I would have excluded event code '4658'. This event ID is for an event that generates when the handle to an object is closed. We are not interested in when an object is closed. It would be more beneficial to look for events with ID like 4688, which is one for new processes created. 
+
 
 ## Question #5
 ### The file is pushed to Homework 6 folder. 
