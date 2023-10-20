@@ -5,21 +5,20 @@
 
 
 ## Question #3
-### The following are screenshots I took while completed the guided lesson in Redhat:
-
-
-![Screenshot 1](st6.10.2.png)
-
-![Screenshot 1](st12.10.2.png)
-
-![Screenshot 1](st4.10.4.png)
-
-![Screenshot 1](st9.10.4.png)
+### The file is pushed to Homework 6 folder.
 
 
 
-## Question #3
-### This screenshot depicts me getting into my jumpbox using key based authenthication, as depicted, I did not need my password to get in. 
+## Question #4
 
-![Screenshot 1](p3.png)
+
+## Question #5
+### The file is pushed to Homework 6 folder. 
+
+
+## Question #6
+### This screenshot depicts the file path to my input.conf file. As you can observe, it is in the local system of etc found in the Splunk Universal Forwarder under program files. 
+
+
+![Screenshot 1](file_location.png)
 
