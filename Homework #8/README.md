@@ -7,13 +7,13 @@
 ### Apart from that, it is open source and fully available on Github (https://github.com/byt3bl33d3r/CrackMapExec).
 
 
-## Question #3
-###  
+## What does the tool look for or Examine?
+###  This tool examines a whole host of protocols including: SMB, LDAP, WINRM, SSH, FTP, RDP,MSSQL and WMI. 
 
 
 ## References
 
-### https://nvd.nist.gov/vuln/detail/CVE-2023-27253#toggleConfig1
+### https://www.crackmapexec.wiki
 ### https://packetstormsecurity.com/files/173487/pfSense-Restore-RRD-Data-Command-Injection.html
 ### https://github.com/advisories/GHSA-mh3m-qv7g-hjvv
 
