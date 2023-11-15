@@ -14,8 +14,7 @@
 ## References
 
 ### https://www.crackmapexec.wiki
-### https://packetstormsecurity.com/files/173487/pfSense-Restore-RRD-Data-Command-Injection.html
-### https://github.com/advisories/GHSA-mh3m-qv7g-hjvv
+
 
 
 
