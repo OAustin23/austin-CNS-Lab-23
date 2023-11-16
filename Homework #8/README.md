@@ -23,7 +23,9 @@
 
 ![Screenshot 1](dnsenum2.png)
 
-![Screenshot 1](dnsenum1.png)
+![Screenshot 1](dnsenum3.png)
+
+### Note that in the last screenshot it stopped at performing a reverse lookup on port 4368 ip addresses. This was running for about 20 minutes then I decided to stop it there, after all I have already found all of the host addresses, the subservers on the network, all of the mail servers, I have sucessfully perfromed google scraping and brute forcing with /usr/share/dnsenum/dns.txt.
 
 
 
