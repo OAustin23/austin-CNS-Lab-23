@@ -2,18 +2,30 @@
 # Orwin Austin [CNS Homework #8/ 16 NOV 2023]
 
 ## Research a Security Tool
-### The security tool that I chose is Crackmapexec. This is refered to as a Swiss Army Knife for pentesting Windows/Active Directory environments. It can be used to enumerate logged on users, spider SMB shares, execute psexecstyle attacks and even inject mimikatz/shellcode/DLL's into memory using powershell. Crackmapexec was written in pure python script, and there is no external tools required. 
-### This tool can be obtained from htttps://gitlab.com/kalilinux/packages/crackmapexec but it is already installed on kali. When the command "which crackmapexec" is run on kali, it returns "/usr/bin/crackmapexec"
-### Apart from that, it is open source and fully available on Github (https://github.com/byt3bl33d3r/CrackMapExec).
+### The security tool that I chose is DNSenum. It basically enumerates DNS information of a domain to discover non contiguous anonymous blocks. Its operations include:
+### 1) Get the host address
+### 2) Get the nameservers
+### 3) Get the MX record
+### 4) Perform axfr queries on nameservers and get BIND VERSION. 
+### 5) Get extra names and subdomains via google scraping.
+### 6) Brute Force subdomains from file
+### 7) Run Whois queries
+
+### This is a multithreaded perl script tool and runs on linux. 
+### Apart from that, it is open source and already installed on Kali, fully available on Github https://github.com/SparrowOchon/dnsenum2
 
 
-## What does the tool look for or Examine?
-###  This tool examines a whole host of protocols including: SMB, LDAP, WINRM, SSH, FTP, RDP,MSSQL and WMI. 
+## Screenshots
+
+### Below are a few screenshots of the dnsenum being run on a site that was suggested by a tutorial on linuxconfig.org, it was a site that they created specifically for this simulation. 
+
 
 
 ## References
 
-### https://www.crackmapexec.wiki
+### https://linuxconfig.org/how-to-use-dnsenum-to-scan-your-server-s-dns-records
+###  https://github.com/SparrowOchon/dnsenum2
+
 
 
 
