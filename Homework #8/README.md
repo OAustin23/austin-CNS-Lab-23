@@ -15,6 +15,7 @@
 ### Apart from that, it is open source and already installed on Kali, fully available on Github https://github.com/SparrowOchon/dnsenum2
 
 
+
 ## Screenshots
 ### Below are a few screenshots of the dnsenum being run on a site that was suggested by a tutorial on linuxconfig.org, it was a site that they created specifically for this simulation. 
 
