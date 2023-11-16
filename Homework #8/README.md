@@ -16,8 +16,16 @@
 
 
 ## Screenshots
-
 ### Below are a few screenshots of the dnsenum being run on a site that was suggested by a tutorial on linuxconfig.org, it was a site that they created specifically for this simulation. 
+
+![Screenshot 1](dnsenum1.png)
+
+![Screenshot 1](dnsenum2.png)
+
+![Screenshot 1](dnsenum1.png)
+
+
+
 
 
 
